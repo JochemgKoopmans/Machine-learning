@@ -1,2 +1,2 @@
 # Machine-learning
-Machine learning notes
+- Work in progress notes on machine learning techniques
